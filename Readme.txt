@@ -1,1 +1,1 @@
-This project is for SCROLL NAVIGATION using Jquery, HTML , Bootstrap
+This project is for SCROLL NAVIGATION using Jquery, HTML , Bootstrap and CSS
